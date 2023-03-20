@@ -1,0 +1,44 @@
+[
+  {
+    "index": 0,
+    "colour": "#C6DEF1",
+    "start": "00:00",
+    "final": "00:15",
+    "label": "1 Introduction"
+  },
+  {
+    "index": 1,
+    "colour": "#FFF1E6",
+    "start": "00:15",
+    "final": "00:41",
+    "label": "3 Background"
+  },
+  {
+    "index": 2,
+    "colour": "#f5f5dc",
+    "start": "00:41",
+    "final": "01:09",
+    "label": "4 Formative Studies"
+  },
+  {
+    "index": 3,
+    "colour": "#F9C6C9",
+    "start": "01:09",
+    "final": "02:26",
+    "label": "5 System"
+  },
+  {
+    "index": 4,
+    "colour": "#DBE7E4",
+    "start": "02:26",
+    "final": "03:43",
+    "label": "6 Evaluation"
+  },
+  {
+    "index": 5,
+    "colour": "#FEFF9E",
+    "start": "03:43",
+    "final": "04:27",
+    "label": "7 Discussion"
+  }
+]
