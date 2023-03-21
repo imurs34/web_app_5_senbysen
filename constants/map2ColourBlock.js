@@ -18,15 +18,15 @@ const {
 
 const pdfBlock = [
   {
-    paragraph: [3, 4, 47, 64],
+    paragraph: [3, 4, 47, 64, 8, 102],
     colour: darkBlue,
   },
   {
-    paragraph: [21, 53, 65],
+    paragraph: [21, 51, 65, 92],
     colour: yellow,
   },
   {
-    paragraph: [35, 57, 66, 91, 92, 93],
+    paragraph: [35, 57, 62, 66, 91],
     colour: salmon,
   },
   {
@@ -38,7 +38,7 @@ const pdfBlock = [
     colour: pink,
   },
   {
-    paragraph: [41, 59, 60, 73, 78],
+    paragraph: [41, 59, 60, 73, 78, 93, 95],
     colour: lightGreen,
   },
 ];
