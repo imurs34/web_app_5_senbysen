@@ -37,7 +37,7 @@
     "content": {
         "original": [
             {
-                "shot_id": 10000,
+                "shot_id": 1,
                 "slide_id": 10000,
                 "ratio": 0.3,
                 "column": 0,
@@ -114,7 +114,7 @@
                 ]
             },
             {
-                "shot_id": 20000,
+                "shot_id": 2,
                 "slide_id": 20000,
                 "ratio": 0.3,
                 "column": 0,
@@ -158,7 +158,7 @@
                 ]
             },
             {
-                "shot_id": 30000,
+                "shot_id": 3,
                 "slide_id": 30000,
                 "ratio": 0.3,
                 "column": 0,
@@ -191,7 +191,7 @@
                 ]
             },
             {
-                "shot_id": 40000,
+                "shot_id": 4,
                 "slide_id": 40000,
                 "ratio": 0.3,
                 "column": 0,
@@ -373,7 +373,7 @@
                 "column": 0,
                 "bg_image": "visifit/background/008_0.61.png",
                 "start_time": 36.6,
-                "end_time": 38.4,
+                "end_time": 42,
                 "learning_material": [
                     {
                         "label": "picture",
@@ -394,7 +394,7 @@
                 "ratio": 0.3,
                 "column": 0,
                 "bg_image": "visifit/background/009_0.64.png",
-                "start_time": 38.4,
+                "start_time": 42,
                 "end_time": 60.6,
                 "learning_material": [
                     {
@@ -560,7 +560,7 @@
                 "column": 0,
                 "bg_image": "visifit/background/013_1.27.png",
                 "start_time": 76.2,
-                "end_time": 78.0,
+                "end_time": 80,
                 "learning_material": [
                     {
                         "label": "picture",
@@ -603,8 +603,8 @@
                 "ratio": 0.3,
                 "column": 0,
                 "bg_image": "visifit/background/014_1.3.png",
-                "start_time": 78.0,
-                "end_time": 83.39999999999999,
+                "start_time": 80,
+                "end_time": 92.39999999999999,
                 "learning_material": [
                     {
                         "label": "picture",
@@ -647,8 +647,8 @@
                 "ratio": 0.3,
                 "column": 0,
                 "bg_image": "visifit/background/015_1.39.png",
-                "start_time": 83.39999999999999,
-                "end_time": 98.39999999999999,
+                "start_time": 92.39999999999999,
+                "end_time": 96.39999999999999,
                 "learning_material": [
                     {
                         "label": "picture",
@@ -713,8 +713,8 @@
                 "ratio": 0.3,
                 "column": 0,
                 "bg_image": "visifit/background/016_1.64.png",
-                "start_time": 98.39999999999999,
-                "end_time": 122.4,
+                "start_time": 96.39999999999999,
+                "end_time": 100.4,
                 "learning_material": [
                     {
                         "label": "picture",
@@ -797,11 +797,264 @@
             },
             {
                 "shot_id": 18,
+                "slide_id": 170000,
+                "ratio": 0.3,
+                "column": 0,
+                "bg_image": "visifit/background/016_1.64.png",
+                "start_time": 100.39999999999999,
+                "end_time": 106,
+                "learning_material": [
+                    {
+                        "label": "picture",
+                        "slide_id": 170000,
+                        "box_info_original": [
+                            23.978748321533203,
+                            0.6198024703189731,
+                            579.6527671813965,
+                            189.8528504418209
+                        ],
+                        "path": "visifit/016_1/016_1.64.png_picture_0.9238613380644969.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 170000,
+                        "box_info_original": [
+                            13.993034362792969,
+                            8.46244789659977,
+                            1243.7672805786133,
+                            651.9688656181097
+                        ],
+                        "path": "visifit/016_1/016_1.64.png_picture_0.3454689783145952.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 170000,
+                        "box_info_original": [
+                            52.163705825805664,
+                            228.931667804718,
+                            291.24648094177246,
+                            23.6976170539856
+                        ],
+                        "path": "visifit/016_1/016_1.64.png_text box_0.12666527929778193.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 170000,
+                        "box_info_original": [
+                            29.8197078704834,
+                            304.77784395217896,
+                            252.37500190734863,
+                            281.6619658470154
+                        ],
+                        "path": "visifit/016_1/016_1.64.png_picture_0.38950837482941125.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 170000,
+                        "box_info_original": [
+                            660.7939910888672,
+                            293.09946298599243,
+                            249.62600708007807,
+                            306.03843927383423
+                        ],
+                        "path": "visifit/016_1/016_1.64.png_picture_0.35883613202827247.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 170000,
+                        "box_info_original": [
+                            344.4965362548828,
+                            4.141159057617188,
+                            254.1591644287109,
+                            183.39035511016849
+                        ],
+                        "path": "visifit/016_1/016_1.64.png_picture_0.2675244104853397.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 170000,
+                        "box_info_original": [
+                            2.9531049728393555,
+                            700.6519174575806,
+                            96.28248691558838,
+                            19.348082542419437
+                        ],
+                        "path": "visifit/016_1/016_1.64.png_footer_0.5806444971144772.jpg"
+                    }
+                ]
+            },
+            {
+                "shot_id": 19,
+                "slide_id": 170000,
+                "ratio": 0.3,
+                "column": 0,
+                "bg_image": "visifit/background/016_1.64.png",
+                "start_time": 106,
+                "end_time": 119.4,
+                "learning_material": [
+                    {
+                        "label": "picture",
+                        "slide_id": 170000,
+                        "box_info_original": [
+                            23.978748321533203,
+                            0.6198024703189731,
+                            579.6527671813965,
+                            189.8528504418209
+                        ],
+                        "path": "visifit/016_1/016_1.64.png_picture_0.9238613380644969.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 170000,
+                        "box_info_original": [
+                            13.993034362792969,
+                            8.46244789659977,
+                            1243.7672805786133,
+                            651.9688656181097
+                        ],
+                        "path": "visifit/016_1/016_1.64.png_picture_0.3454689783145952.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 170000,
+                        "box_info_original": [
+                            52.163705825805664,
+                            228.931667804718,
+                            291.24648094177246,
+                            23.6976170539856
+                        ],
+                        "path": "visifit/016_1/016_1.64.png_text box_0.12666527929778193.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 170000,
+                        "box_info_original": [
+                            29.8197078704834,
+                            304.77784395217896,
+                            252.37500190734863,
+                            281.6619658470154
+                        ],
+                        "path": "visifit/016_1/016_1.64.png_picture_0.38950837482941125.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 170000,
+                        "box_info_original": [
+                            660.7939910888672,
+                            293.09946298599243,
+                            249.62600708007807,
+                            306.03843927383423
+                        ],
+                        "path": "visifit/016_1/016_1.64.png_picture_0.35883613202827247.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 170000,
+                        "box_info_original": [
+                            344.4965362548828,
+                            4.141159057617188,
+                            254.1591644287109,
+                            183.39035511016849
+                        ],
+                        "path": "visifit/016_1/016_1.64.png_picture_0.2675244104853397.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 170000,
+                        "box_info_original": [
+                            2.9531049728393555,
+                            700.6519174575806,
+                            96.28248691558838,
+                            19.348082542419437
+                        ],
+                        "path": "visifit/016_1/016_1.64.png_footer_0.5806444971144772.jpg"
+                    }
+                ]
+            },
+            {
+                "shot_id": 20,
                 "slide_id": 180000,
                 "ratio": 0.3,
                 "column": 0,
                 "bg_image": "visifit/background/017_2.04.png",
-                "start_time": 122.4,
+                "start_time": 119.4,
+                "end_time": 128.4,
+                "learning_material": [
+                    {
+                        "label": "picture",
+                        "slide_id": 180000,
+                        "box_info_original": [
+                            30.96400260925293,
+                            5.599765777587891,
+                            249.4677829742432,
+                            195.435791015625
+                        ],
+                        "path": "visifit/017_2/017_2.04.png_picture_0.9293590241620981.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 180000,
+                        "box_info_original": [
+                            5.033721923828125,
+                            0.0,
+                            1261.801300048828,
+                            230.18280029296875
+                        ],
+                        "path": "visifit/017_2/017_2.04.png_picture_0.30979128930469724.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 180000,
+                        "box_info_original": [
+                            342.03163146972656,
+                            0.1055335986893624,
+                            259.1542053222656,
+                            227.5693583500106
+                        ],
+                        "path": "visifit/017_2/017_2.04.png_picture_0.4133612869319415.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 180000,
+                        "box_info_original": [
+                            653.8157653808594,
+                            0.0,
+                            262.9473876953125,
+                            223.62788915634155
+                        ],
+                        "path": "visifit/017_2/017_2.04.png_picture_0.965523766649912.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 180000,
+                        "box_info_original": [
+                            8.931350708007812,
+                            305.0552487373352,
+                            1257.761459350586,
+                            382.9315781593323
+                        ],
+                        "path": "visifit/017_2/017_2.04.png_chart_0.6463553634733139.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 180000,
+                        "box_info_original": [
+                            3.058919906616211,
+                            698.2165575027466,
+                            96.2705421447754,
+                            21.783442497253414
+                        ],
+                        "path": "visifit/017_2/017_2.04.png_footer_0.7216421630201838.jpg"
+                    }
+                ]
+            },
+            {
+                "shot_id": 21,
+                "slide_id": 180000,
+                "ratio": 0.3,
+                "column": 0,
+                "bg_image": "visifit/background/017_2.04.png",
+                "start_time": 128.4,
                 "end_time": 132.6,
                 "learning_material": [
                     {
@@ -873,7 +1126,7 @@
                 ]
             },
             {
-                "shot_id": 19,
+                "shot_id": 22,
                 "slide_id": 190000,
                 "ratio": 0.3,
                 "column": 0,
@@ -917,7 +1170,7 @@
                 ]
             },
             {
-                "shot_id": 20,
+                "shot_id": 23,
                 "slide_id": 200000,
                 "ratio": 0.3,
                 "column": 0,
@@ -961,7 +1214,7 @@
                 ]
             },
             {
-                "shot_id": 21,
+                "shot_id": 24,
                 "slide_id": 210000,
                 "ratio": 0.3,
                 "column": 0,
@@ -1005,7 +1258,7 @@
                 ]
             },
             {
-                "shot_id": 22,
+                "shot_id": 25,
                 "slide_id": 220000,
                 "ratio": 0.3,
                 "column": 0,
@@ -1060,7 +1313,7 @@
                 ]
             },
             {
-                "shot_id": 23,
+                "shot_id": 26,
                 "slide_id": 230000,
                 "ratio": 0.3,
                 "column": 0,
@@ -1126,7 +1379,7 @@
                 ]
             },
             {
-                "shot_id": 24,
+                "shot_id": 27,
                 "slide_id": 240000,
                 "ratio": 0.3,
                 "column": 0,
@@ -1148,7 +1401,7 @@
                 ]
             },
             {
-                "shot_id": 25,
+                "shot_id": 28,
                 "slide_id": 250000,
                 "ratio": 0.3,
                 "column": 0,
@@ -1170,13 +1423,13 @@
                 ]
             },
             {
-                "shot_id": 26,
+                "shot_id": 29,
                 "slide_id": 260000,
                 "ratio": 0.3,
                 "column": 0,
                 "bg_image": "visifit/background/025_2.59.png",
                 "start_time": 155.39999999999998,
-                "end_time": 160.8,
+                "end_time": 158.8,
                 "learning_material": [
                     {
                         "label": "picture",
@@ -1236,12 +1489,122 @@
                 ]
             },
             {
-                "shot_id": 27,
+                "shot_id": 30,
                 "slide_id": 270000,
                 "ratio": 0.3,
                 "column": 0,
                 "bg_image": "visifit/background/026_2.68.png",
-                "start_time": 160.8,
+                "start_time": 158.8,
+                "end_time": 167,
+                "learning_material": [
+                    {
+                        "label": "picture",
+                        "slide_id": 270000,
+                        "box_info_original": [
+                            35.570688247680664,
+                            310.5806422233581,
+                            255.07636070251465,
+                            267.2846817970276
+                        ],
+                        "path": "visifit/026_2/026_2.68.png_chart_0.5616794423376172.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 270000,
+                        "box_info_original": [
+                            33.42111587524414,
+                            0.932464599609375,
+                            570.5534172058105,
+                            185.9178113937378
+                        ],
+                        "path": "visifit/026_2/026_2.68.png_picture_0.8628808960568709.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 270000,
+                        "box_info_original": [
+                            4.604482650756836,
+                            696.2420654296875,
+                            99.87346649169922,
+                            22.526092529296875
+                        ],
+                        "path": "visifit/026_2/026_2.68.png_footer_0.22932664042521667.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 270000,
+                        "box_info_original": [
+                            973.33984375,
+                            267.1563649177551,
+                            255.75347900390625,
+                            336.7538523674011
+                        ],
+                        "path": "visifit/026_2/026_2.68.png_chart_0.86632444561809.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 270000,
+                        "box_info_original": [
+                            60.17491340637207,
+                            224.45566177368164,
+                            284.64579582214355,
+                            25.03307819366455
+                        ],
+                        "path": "visifit/026_2/026_2.68.png_text box_0.8595351908716803.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 270000,
+                        "box_info_original": [
+                            348.15799713134766,
+                            289.830322265625,
+                            255.39749145507807,
+                            310.3227424621582
+                        ],
+                        "path": "visifit/026_2/026_2.68.png_chart_0.7140138099190929.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 270000,
+                        "box_info_original": [
+                            37.13881969451904,
+                            267.90467977523804,
+                            62.35153675079346,
+                            16.11091375350952
+                        ],
+                        "path": "visifit/026_2/026_2.68.png_text box_0.3708810530595883.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 270000,
+                        "box_info_original": [
+                            661.37451171875,
+                            283.91424894332886,
+                            252.86956787109372,
+                            300.2832770347595
+                        ],
+                        "path": "visifit/026_2/026_2.68.png_chart_0.18703848395615286.jpg"
+                    },
+                    {
+                        "label": "picture",
+                        "slide_id": 270000,
+                        "box_info_original": [
+                            28.39427947998047,
+                            7.400207296013832,
+                            1215.8977127075195,
+                            614.0410997718573
+                        ],
+                        "path": "visifit/026_2/026_2.68.png_picture_0.7679076439682548.jpg"
+                    }
+                ]
+            },
+            {
+                "shot_id": 31,
+                "slide_id": 270000,
+                "ratio": 0.3,
+                "column": 0,
+                "bg_image": "visifit/background/026_2.68.png",
+                "start_time": 167,
                 "end_time": 172.20000000000002,
                 "learning_material": [
                     {
@@ -1346,7 +1709,7 @@
                 ]
             },
             {
-                "shot_id": 28,
+                "shot_id": 32,
                 "slide_id": 280000,
                 "ratio": 0.3,
                 "column": 0,
@@ -1401,7 +1764,7 @@
                 ]
             },
             {
-                "shot_id": 29,
+                "shot_id": 33,
                 "slide_id": 290000,
                 "ratio": 0.3,
                 "column": 0,
@@ -1456,7 +1819,7 @@
                 ]
             },
             {
-                "shot_id": 30,
+                "shot_id": 34,
                 "slide_id": 300000,
                 "ratio": 0.3,
                 "column": 0,
@@ -1489,7 +1852,7 @@
                 ]
             },
             {
-                "shot_id": 31,
+                "shot_id": 35,
                 "slide_id": 310000,
                 "ratio": 0.3,
                 "column": 0,
@@ -1522,7 +1885,7 @@
                 ]
             },
             {
-                "shot_id": 32,
+                "shot_id": 36,
                 "slide_id": 320000,
                 "ratio": 0.3,
                 "column": 0,
@@ -1555,7 +1918,7 @@
                 ]
             },
             {
-                "shot_id": 33,
+                "shot_id": 37,
                 "slide_id": 330000,
                 "ratio": 0.3,
                 "column": 0,
@@ -1588,7 +1951,7 @@
                 ]
             },
             {
-                "shot_id": 34,
+                "shot_id": 38,
                 "slide_id": 340000,
                 "ratio": 0.3,
                 "column": 0,
@@ -1621,7 +1984,7 @@
                 ]
             },
             {
-                "shot_id": 35,
+                "shot_id": 39,
                 "slide_id": 350000,
                 "ratio": 0.3,
                 "column": 0,
@@ -1654,7 +2017,7 @@
                 ]
             },
             {
-                "shot_id": 36,
+                "shot_id": 40,
                 "slide_id": 360000,
                 "ratio": 0.3,
                 "column": 0,
@@ -1687,13 +2050,13 @@
                 ]
             },
             {
-                "shot_id": 37,
+                "shot_id": 41,
                 "slide_id": 370000,
                 "ratio": 0.3,
                 "column": 0,
                 "bg_image": "visifit/background/036_3.54.png",
                 "start_time": 212.4,
-                "end_time": 225.0,
+                "end_time": 224.0,
                 "learning_material": [
                     {
                         "label": "picture",
@@ -1742,12 +2105,12 @@
                 ]
             },
             {
-                "shot_id": 38,
+                "shot_id": 42,
                 "slide_id": 380000,
                 "ratio": 0.3,
                 "column": 0,
                 "bg_image": "visifit/background/037_3.75.png",
-                "start_time": 225.0,
+                "start_time": 224.0,
                 "end_time": 226.79999999999998,
                 "learning_material": [
                     {
@@ -1764,7 +2127,7 @@
                 ]
             },
             {
-                "shot_id": 39,
+                "shot_id": 43,
                 "slide_id": 390000,
                 "ratio": 0.3,
                 "column": 0,
@@ -1797,7 +2160,7 @@
                 ]
             },
             {
-                "shot_id": 40,
+                "shot_id": 44,
                 "slide_id": 400000,
                 "ratio": 0.3,
                 "column": 0,
@@ -1841,13 +2204,13 @@
                 ]
             },
             {
-                "shot_id": 41,
+                "shot_id": 45,
                 "slide_id": 410000,
                 "ratio": 0.3,
                 "column": 0,
                 "bg_image": "visifit/background/040_3.89.png",
                 "start_time": 233.4,
-                "end_time": 240.6,
+                "end_time": 239.6,
                 "learning_material": [
                     {
                         "label": "picture",
@@ -1907,13 +2270,13 @@
                 ]
             },
             {
-                "shot_id": 42,
+                "shot_id": 46,
                 "slide_id": 420000,
                 "ratio": 0.3,
                 "column": 0,
                 "bg_image": "visifit/background/041_4.01.png",
-                "start_time": 240.6,
-                "end_time": 249.00000000000003,
+                "start_time": 239.6,
+                "end_time": 247.00000000000003,
                 "learning_material": [
                     {
                         "label": "picture",
@@ -1973,12 +2336,12 @@
                 ]
             },
             {
-                "shot_id": 43,
+                "shot_id": 47,
                 "slide_id": 430000,
                 "ratio": 0.3,
                 "column": 0,
                 "bg_image": "visifit/background/042_4.15.png",
-                "start_time": 249.00000000000003,
+                "start_time": 247.00000000000003,
                 "end_time": 250.79999999999998,
                 "learning_material": [
                     {
@@ -2072,7 +2435,7 @@
                 ]
             },
             {
-                "shot_id": 44,
+                "shot_id": 48,
                 "slide_id": 440000,
                 "ratio": 0.3,
                 "column": 0,
@@ -2171,13 +2534,13 @@
                 ]
             },
             {
-                "shot_id": 45,
+                "shot_id": 49,
                 "slide_id": 450000,
                 "ratio": 0.3,
                 "column": 0,
                 "bg_image": "visifit/background/044_4.26.png",
                 "start_time": 255.6,
-                "end_time": 258.59999999999997,
+                "end_time": 268.59999999999997,
                 "learning_material": [
                     {
                         "label": "picture",

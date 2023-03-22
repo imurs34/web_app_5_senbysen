@@ -18,7 +18,7 @@ const {
 
 const pdfBlock = [
   {
-    paragraph: [4, 47, 64, 8, 102],
+    paragraph: [4, 47, 64, 102, 133],
     colour: darkBlue,
   },
   {
